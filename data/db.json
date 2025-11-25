@@ -1,0 +1,23 @@
+{
+  "templates": [
+    {
+      "id": "5ec3c445",
+      "name": "hu",
+      "imagePath": null,
+      "namePosition": {
+        "x": 50,
+        "y": 50,
+        "fontSize": 30,
+        "fontFamily": "serif",
+        "color": "#000000"
+      },
+      "signaturePosition": {
+        "x": 50,
+        "y": 80,
+        "visible": false
+      }
+    }
+  ],
+  "certificates": [],
+  "failedAttempts": []
+}
